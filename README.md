@@ -26,7 +26,18 @@ The shark is a reference to the IKEA Blåhaj shark plushie, which has become a s
 ### How can I technically modify the flag?
 The flag is a simple SVG file, so you can open it with any text editor and modify it as you wish. If you want to use a graphical editor, I recommend [Inkscape](https://inkscape.org/), which is free and open-source. You can also use any other graphical editor that supports SVG files.
 
-To make the tiktok/smartphone (9/16), simply crop the flag 275px from the left and resize it to 450px wide. On GIMP: Open the flag, leave default rendering of SVG file, go to Image > Canvas Size, set **Width** to 450px and the **Offset X** to -275px, then click on Resize, you can then export the image as a PNG file.
+To make the tiktok/smartphone (9/16), simply crop the flag 275px from the left and resize it to 450px wide. On GIMP: Open the flag, leave default rendering of SVG file, go to Image > Canvas Size, set **Width** to 450px and the **Offset X** to -275px, then click on Resize, you can then export the image as a PNG file. (The square version is 800x800px, offset X is -100)
+
+### How was the QR code generated?
+The QR code was generated with [amazing-qrcode](https://github.com/x-hw/amazing-qr) with the following command:
+```bash
+amzqr -v 10 -l M -p flag_square.png -c -n Github_qr.png
+# -v 10: Size 10
+# -l M: Medium error correction
+# -p flag_square.png: Background image
+# -c: Colored version
+# -n Github_qr.png: Output file name
+```
 
 ## Licenses
 This repository is licensed under the [CC0 1.0](LICENSE) license. You are free to use, share, and modify the content of this repository.

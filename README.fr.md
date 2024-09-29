@@ -29,7 +29,18 @@ Le requin est une référence au requin en peluche IKEA Blåhaj, qui est devenu 
 
 Le drapeau est un simple fichier SVG, vous pouvez donc l'ouvrir avec n'importe quel éditeur de texte et le modifier à votre guise. Si vous voulez utiliser un éditeur graphique, je recommande [Inkscape](https://inkscape.org/), qui est libre et gratuit. Vous pouvez également utiliser n'importe quel autre éditeur graphique qui prend en charge les fichiers SVG.
 
-Pour la version 9/16 pour tiktok/smartphone, il suffit de recadrer le drapeau à 275px de la gauche et de le redimensionner à 450px de large. Sur GIMP: Ouvrez le drapeau, laissez le rendu par défaut du fichier SVG, allez dans Image > Taille du canevas, définissez **Largeur** à 450px et le **Décalage X** à -275px, puis cliquez sur Redimensionner, vous pouvez ensuite exporter l'image en tant que fichier PNG.
+Pour la version 9/16 pour tiktok/smartphone, il suffit de recadrer le drapeau à 275px de la gauche et de le redimensionner à 450px de large. Sur GIMP: Ouvrez le drapeau, laissez le rendu par défaut du fichier SVG, allez dans Image > Taille du canevas, définissez **Largeur** à 450px et le **Décalage X** à -275px, puis cliquez sur Redimensionner, vous pouvez ensuite exporter l'image en tant que fichier PNG. (La version carrée est de 800x800px, le décalage X est de -100)
+
+### Comment a été généré le QR code?
+Le QR code a été généré avec [amazing-qrcode](https://github.com/x-hw/amazing-qr), avec la commande suivante:
+```bash
+amzqr -v 10 -l M -p flag_square.png -c -n Github_qr.png https://github.com/FirePowi/Tranaland
+# -v 10: Taille 10
+# -l M: Correction d'erreur moyenne
+# -p flag_square.png: Image de fond
+# -c: Version colorée
+# -n Github_qr.png: Nom du fichier de sortie
+```
 
 ## Licences
 
