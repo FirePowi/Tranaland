@@ -10,7 +10,8 @@ Tranaland est un pays virtuel qui existe dans l'esprit de ses citoyen·nes, AKA 
 
 Il est largement entendu que les citoyennes de Tranaland peuvent également être citoyennes de Tanaland, et vice versa. Les deux pays ne sont pas mutuellement exclusifs.
 
-La vidéo originale, en français, peut être trouvée [sur tiktok](https://vm.tiktok.com/ZGd1S6G2q/). Avec la raison pour laquelle le drapeau a changé de l'original, sur [cette vidéo](https://vm.tiktok.com/ZGd1ShBte/).
+La vidéo originale peut être trouvée [sur tiktok](https://vm.tiktok.com/ZGd1S6G2q/). Avec la raison pour laquelle le drapeau a changé de l'original, sur [cette vidéo](https://vm.tiktok.com/ZGd1ShBte/).
+La vidéo originale de Tanaland peut également être trouvée [sur tiktok](https://www.tiktok.com/@hadja_bh2/video/7415329355255008544), elle a été créée par [@hadja_bh2](https://www.tiktok.com/@hadja_bh2).
 En gros, le drapeau original avait une large bande blanche au milieu, qui est utilisée par les "MAPs", AKA les pédocriminels, pour s'identifier. Je ne le savais pas quand j'ai créé le drapeau, mais je l'ai changé dès que je l’ai appris, ne voulant pas être associé à de telles personnes.
 
 ### Les hommes trans et les personnes non-binaires

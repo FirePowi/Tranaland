@@ -12,6 +12,7 @@ It is freely inspired on Tanaland, a virtual country created for a similar purpo
 It is widely understood that citizens of Tranaland can also be citizens of Tanaland, and vice versa. The two countries are not mutually exclusive.
 
 The original video, in french, can be found [on tiktok](https://vm.tiktok.com/ZGd1S6G2q/). With the reason why the flag changed from the original one, on [this video](https://vm.tiktok.com/ZGd1ShBte/).
+The original video of Tanaland, in french, can be found [on tiktok](https://www.tiktok.com/@hadja_bh2/video/7415329355255008544) too, it was created by [@hadja_bh2](https://www.tiktok.com/@hadja_bh2).
 Basically, the original flag had a wide white stripe in the middle, which is used by "MAPs", AKA child molesters, to identify themselves. I didn't know that when I created the flag, but I changed it as soon as I learned about it, not wanting to be associated with such people.
 
 ### Trans men and Non-binary people
